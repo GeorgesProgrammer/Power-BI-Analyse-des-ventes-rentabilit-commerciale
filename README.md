@@ -76,7 +76,6 @@ Les données ont été nettoyées, standardisées et modélisées à l’aide de
 - Power BI
 - DAX (mesures, KPIs, calculs avancés)
 - Power Query (ETL)
-- SQL
 - Excel
 
 ---
@@ -91,7 +90,6 @@ Les données ont été nettoyées, standardisées et modélisées à l’aide de
 
 ## 🔗 Livrables
 - 📊 Rapport Power BI (.pbix)
-- 📂 Documentation et méthodologie
 - 📈 Dashboards interactifs (4 pages)
 
 ---
